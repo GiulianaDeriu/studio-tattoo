@@ -79,7 +79,7 @@ html, body{
   margin-left: 127px;
 }
 
-button{
+.btn-lg {
   margin-left: 20px;
   border-radius: 12px;
   color: #212529;
@@ -87,7 +87,7 @@ button{
   transition-duration: 0.2s;
 }
 
-button:hover{
+.btn-lg:hover{
   color: #ffa819;
   background-color: #212529;
   transform: scale(1.2);
